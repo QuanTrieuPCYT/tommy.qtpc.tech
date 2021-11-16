@@ -1,2 +1,2 @@
 # tommy.qtpc.tech
-A repository for Tommy's website
+Tommy ~~Vercetti~~ from Circus SMP kkk
